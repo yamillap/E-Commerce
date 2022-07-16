@@ -1,2 +1,5 @@
 # Amazon-E-Commerce
-Amazon E-Commerce System built by using Java
+In class assignment called Amazon E-Commerce System 
+
+This project implements user-interface and was built using Java
+
