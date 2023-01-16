@@ -1,8 +1,5 @@
 import java.util.*;
 
-
-//Yamilla Prodhan
-//501107717
 // Cart Class created so each customer has their own shopping cart
 
 public class Cart 
