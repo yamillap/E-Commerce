@@ -1,5 +1,4 @@
-//Name: Yamilla Prodhan
-//Student # 501107717
+
 
 /* A book IS A product that has additional information - e.g. title, author
 
