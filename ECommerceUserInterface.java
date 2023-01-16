@@ -1,10 +1,6 @@
 
 import java.util.Scanner;
 
-
-//Name: Yamilla Prodhan
-//Student # 501107717
-
 // Simulation of a Simple E-Commerce System (like Amazon)
 
 
