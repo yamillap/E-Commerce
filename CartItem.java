@@ -1,6 +1,4 @@
 
-//Yamilla Prodhan 
-//501107717
 //CartItem class created to reference product objects and add them to the 
 //shopping cart created in the class Cart
 
