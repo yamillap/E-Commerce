@@ -1,9 +1,6 @@
 import java.io.*;
 import java.util.*;
 
-//Name: Yamilla Prodhan
-//Student # 501107717
-
 /*
  * Models a simple ECommerce system. Keeps track of products for sale, registered customers, product orders and
  * orders that have been shipped to a customer
