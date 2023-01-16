@@ -1,5 +1,3 @@
-//Name: Yamilla Prodhan
-//Student # 501107717
 
 /*
  * class ProductOrder defines an order of a specific product by a customer
