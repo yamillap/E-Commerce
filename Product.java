@@ -1,5 +1,4 @@
-//Name: Yamilla Prodhan
-//Student # 501107717
+
 import java.util.*;
 
 /*
