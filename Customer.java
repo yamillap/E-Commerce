@@ -1,5 +1,3 @@
-//Name: Yamilla Prodhan
-//Student # 501107717
 
 /*
  *  class Customer defines a registered customer. It keeps track of the customer's name and address. 
