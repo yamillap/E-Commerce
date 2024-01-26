@@ -1,4 +1,4 @@
-Simple E-Commerce program 
+Simple Amazon E-Commerce program 
 _____________________________
 
 How it's made:
